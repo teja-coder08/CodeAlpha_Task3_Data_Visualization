@@ -1,0 +1,22 @@
+
+OrderID,Product,Category,Region,Sales,Profit
+1001,Laptop,Electronics,South,55000,8000
+1002,Phone,Electronics,North,30000,5000
+1003,Chair,Furniture,East,8000,1200
+1004,Desk,Furniture,West,12000,1800
+1005,Headphones,Electronics,South,2500,600
+1006,Notebook,Stationery,North,500,100
+1007,Pen,Stationery,East,200,50
+1008,Tablet,Electronics,West,22000,3500
+1009,Sofa,Furniture,South,35000,6000
+1010,Printer,Electronics,North,15000,2200
+1011,Books,Stationery,West,1200,250
+1012,Office Table,Furniture,East,18000,2800
+1013,Smartwatch,Electronics,South,7000,1100
+1014,Marker,Stationery,North,300,60
+1015,Bed,Furniture,West,28000,4500
+1016,Camera,Electronics,East,42000,7000
+1017,File Folder,Stationery,South,400,80
+1018,Keyboard,Electronics,West,3500,700
+1019,Cupboard,Furniture,North,20000,3200
+1020,Calculator,Stationery,East,900,180
